@@ -1,6 +1,6 @@
 # Django-Basic-Dictionary
 Search a word(noun). Results will be meaning, synonyms and antonyms of the respective.
-##Getting Started
+<h3>Getting Started</h3>
 <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.</p>
 <h2>Installation</h2>
 <pre>open terminal and type</pre>
